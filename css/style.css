@@ -1,0 +1,29 @@
+img {
+  width: 100%;
+  min-height: 700px;
+  object-fit: cover;
+}
+.swiper {
+  width: 1920px;
+  margin: 0 20px;
+}
+
+.swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet,
+.swiper-pagination-horizontal.swiper-pagination-bullets
+  .swiper-pagination-bullet {
+  margin: 0 10px;
+}
+
+.swiper-pagination-bullet {
+  width: 15px;
+  height: 15px;
+  background-color:rgb(255, 1, 170);
+}
+.swiper-pagination-bullet-active {
+  background-color: rgb(233, 238, 241);
+}
+
+
+.swiper-button-next, .swiper-button-prev{
+  color: rgb(221, 221, 236);
+}
