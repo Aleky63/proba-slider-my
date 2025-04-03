@@ -17,13 +17,13 @@ img {
 .swiper-pagination-bullet {
   width: 15px;
   height: 15px;
-  background-color:rgb(255, 1, 170);
+  background-color: rgb(243, 11, 166);
 }
 .swiper-pagination-bullet-active {
   background-color: rgb(233, 238, 241);
 }
 
-
-.swiper-button-next, .swiper-button-prev{
+.swiper-button-next,
+.swiper-button-prev {
   color: rgb(221, 221, 236);
 }
